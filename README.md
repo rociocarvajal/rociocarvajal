@@ -4,7 +4,7 @@
 <h4>I am an advanced student of sysadmin and free software. I love learning and sharing my projects.<h4/>
 <h4>I invite you to my <a href="https://rociocarvajal.github.io/portfolio/" target="_blank">portfolio</a>✨<h4/>
 
- <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b></h2>
+ <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 #### Programming languages:
 &emsp;

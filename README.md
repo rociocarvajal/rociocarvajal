@@ -1,6 +1,6 @@
 <a><img src="https://readme-typing-svg.herokuapp.com?lines=Sysadmin+Student;Web+Developer;Freelancer;|%20AI%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
-<h2><img src="https://user-images.githubusercontent.com/136781946/284683006-9c39f900-a2ed-4fb8-8a1e-9efd51e96f01.jpg" width ="25"> About me </h2>
+<h2><img src="https://github.com/rociocarvajal/rociocarvajal/assets/136781946/39ed477f-99ba-47f1-a08d-c141eda97f0a" width ="25"> About me </h2>
 <h4>I am an advanced student of sysadmin and free software. I love learning and sharing my projects.<h4/>
 <h4>I invite you to my <a href="https://rociocarvajal.github.io/portfolio/" target="_blank">portfolio</a>✨<h4/>
 

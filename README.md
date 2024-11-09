@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Sysadmin+Student;Web+Developer;Freelancer;%20AI%20Enthusiastic;Love%20Coding&center=true&width=200&height=30">
 <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />  About me </h2>
-<h4>Hello world, I invite you to my <a href="https://rociocarvajal.github.io/portfolio/" target="_blank">portfolio</a><h4/>
+<h4>Hello world, I invite you to my <a href="https://rociocarvajal.github.io/portfolio/" target="_blank">portfolio </a><img src="https://github.com/rociocarvajal/rociocarvajal/assets/136781946/39ed477f-99ba-47f1-a08d-c141eda97f0a" width ="25"><h4/>
 <h4>I am a Full Stack Developer and student of Sysadmin and Free Software.
-I love technology and modern interfaces!<img src="https://github.com/rociocarvajal/rociocarvajal/assets/136781946/39ed477f-99ba-47f1-a08d-c141eda97f0a" width ="25"><h4/>
+I love technology and modern interfaces!<h4/>
  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">   Skills</h2>
 
 #### Frontend development:
